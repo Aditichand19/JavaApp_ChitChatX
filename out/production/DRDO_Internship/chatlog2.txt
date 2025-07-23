@@ -1,0 +1,28 @@
+🔔 client1 joined the chat.
+🔔 client2 joined the chat.
+client1: hiiii
+client2: hello
+client1: all good?
+client2: yeah! great
+🚪 client1 left the chat.
+🚪 client2 left the chat.
+🔔 client 1 joined the chat.
+🔔 Client 2 joined the chat.
+🔔 client 3 joined the chat.
+🔔 client 4 joined the chat.
+client 1: hi 
+Client 2: hello everyone!
+client 3: hello its mee
+client 4: ok bye
+🚪 client 4 left the chat.
+🚪 Client 2 left the chat.
+🚪 client 3 left the chat.
+🚪 client 1 left the chat.
+🔔 aditi joined the chat.
+🔔 next joined the chat.
+aditi: hi
+next: hello
+🚪 next left the chat.
+🚪 aditi left the chat.
+🔔 Client 1 joined the chat.
+🔔 client 2 joined the chat.
