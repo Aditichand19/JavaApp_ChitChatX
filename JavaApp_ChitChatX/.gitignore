@@ -1,25 +1,8 @@
-# 🧠 Ignore IDE config files (IntelliJ IDEA)
-.idea/
-*.iml
-
-# 🔁 Ignore build/output folders
-/out/
-build/
-target/
-
-# 🧱 Ignore compiled Java files
 *.class
-
-# 🧹 Ignore OS/system files
-.DS_Store
-Thumbs.db
-
-# 📄 Ignore logs or temporary files
-chatlog2.txt
-
-# ⚠️ Optional: ignore backup or crash files
-*.log
-*.tmp
+*.iml
+.idea/
+target/
+out/
 
 
 
