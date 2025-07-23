@@ -1,0 +1,35 @@
+# 🧠 Ignore IDE config files (IntelliJ IDEA)
+.idea/
+*.iml
+
+# 🔁 Ignore build/output folders
+/out/
+build/
+target/
+
+# 🧱 Ignore compiled Java files
+*.class
+
+# 🧹 Ignore OS/system files
+.DS_Store
+Thumbs.db
+
+# 📄 Ignore logs or temporary files
+chatlog2.txt
+
+# ⚠️ Optional: ignore backup or crash files
+*.log
+*.tmp
+
+
+
+# What each section means:
+#.idea/, *.iml: IntelliJ's internal config – not needed on GitHub
+#
+#*.class: compiled .java files – you only upload source code, not compiled output
+#
+#out/, build/: generated files or folders during run/build
+#
+#chatlog2.txt: your server log file – skip this unless you want to show logs
+#
+#.DS_Store, Thumbs.db: created by Mac/Windows file systems – useless in repo
