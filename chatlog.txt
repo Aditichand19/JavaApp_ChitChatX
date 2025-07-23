@@ -1,4 +1,0 @@
-git rm -r --cached chatlog2.txt
-git rm -r --cached .idea
-git commit -m "Remove unwanted folder from Git tracking"
-git push
